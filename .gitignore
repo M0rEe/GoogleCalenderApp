@@ -1,0 +1,4 @@
+
+credentials/credentials.json
+*.pickle
+*.xlsx
