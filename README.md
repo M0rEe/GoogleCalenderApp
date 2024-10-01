@@ -4,7 +4,7 @@
 video link for  that from second 0:18 to 4:48 -ish ?  just until he download the JSON file and then rename it "credentials.json" and add it to the folder 
 `its a mandatory thing to do`
  
-2-go and upload your schedule image to [DocSumo website]([url](https://www.docsumo.com/free-tools/extract-tables-from-pdf-images)) 
+2-go and upload your schedule image to [DocSumo_website]([url](https://www.docsumo.com/free-tools/extract-tables-from-pdf-images)) 
 wait 30 seconds  maybe you need to make a visual glimpse of a checkup 
  
 3- run the application  for the first time you gonna get hit with a google sign in page 
